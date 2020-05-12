@@ -1,5 +1,5 @@
 # Boat Types Recognition
-Image Recognition of 1500 boats classified to 9 categories.
+Image Recognition of 1500 boats classified to 9 categories done using fastai library from fast.ai course by Jeremy Howard
 
 Link to the dataset: https://www.kaggle.com/clorichel/boat-types-recognition
 
